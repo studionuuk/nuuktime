@@ -24,7 +24,9 @@ sites:
   - name: Scrine Production
     url: https://scrineprod.fr/
   - name: Thierry Aldeguer
-    url: https://aldeguer-thierry-avocat.fr/    
+    url: https://aldeguer-thierry-avocat.fr/
+  - name: Nuuk Bug
+    url: https://bug.nuuk.fr/     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,11 +34,11 @@ status-website:
   cname: status.nuuk.fr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Studio Nuük
+  name: Statuts Studio Nuük
   introTitle: "**NuukTime** est l'outil de monitoring du Studio Nuük pour les sites que nous administrons."
   introMessage: Cette page référence les sites que nous monitorons.
   navbar:
-    - title: Status
+    - title: Statuts
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
