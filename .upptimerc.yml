@@ -25,8 +25,6 @@ sites:
     url: https://scrineprod.fr/
   - name: Thierry Aldeguer
     url: https://aldeguer-thierry-avocat.fr/
-  - name: Nuuk Bug
-    url: https://bug.nuuk.fr/     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
