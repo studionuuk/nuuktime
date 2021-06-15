@@ -130,19 +130,19 @@
     "url": "https://sigalous.com/",
     "icon": "https://favicons.githubusercontent.com/sigalous.com",
     "slug": "sigalous",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1885,
-    "timeDay": 686,
-    "timeWeek": 1885,
-    "timeMonth": 1885,
-    "timeYear": 1885,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1850,
+    "timeDay": 1127,
+    "timeWeek": 1850,
+    "timeMonth": 1850,
+    "timeYear": 1850,
     "dailyMinutesDown": {
-      "2021-06-15": 0
+      "2021-06-15": 1
     }
   },
   {
