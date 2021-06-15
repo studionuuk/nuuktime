@@ -130,9 +130,9 @@
     "url": "https://sigalous.com/",
     "icon": "https://favicons.githubusercontent.com/sigalous.com",
     "slug": "sigalous",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 1885,
     "timeMonth": 1885,
     "timeYear": 1885,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-15": 0
+    }
   },
   {
     "name": "Viebois",
