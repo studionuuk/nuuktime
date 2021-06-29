@@ -27,7 +27,7 @@ sites:
     url: https://aldeguer-thierry-avocat.fr/
   - name: Serieously
     url: https://www.serieously.com/
-- name: Delpierre
+  - name: Delpierre
     url: https://www.delpierre.com/
 
 status-website:
