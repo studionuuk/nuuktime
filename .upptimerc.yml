@@ -27,6 +27,8 @@ sites:
     url: https://aldeguer-thierry-avocat.fr/
   - name: Serieously
     url: https://www.serieously.com/
+- name: Delpierre
+    url: https://www.delpierre.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
