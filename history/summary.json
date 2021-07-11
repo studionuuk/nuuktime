@@ -13,7 +13,7 @@
     "time": 614,
     "timeDay": 741,
     "timeWeek": 669,
-    "timeMonth": 618,
+    "timeMonth": 621,
     "timeYear": 614,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 613,
     "timeDay": 734,
     "timeWeek": 687,
-    "timeMonth": 614,
+    "timeMonth": 616,
     "timeYear": 613,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 662,
     "timeDay": 769,
     "timeWeek": 677,
-    "timeMonth": 661,
+    "timeMonth": 663,
     "timeYear": 662,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 407,
     "timeDay": 442,
     "timeWeek": 540,
-    "timeMonth": 395,
+    "timeMonth": 401,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2021-06-23": 7
@@ -87,7 +87,7 @@
     "time": 783,
     "timeDay": 932,
     "timeWeek": 854,
-    "timeMonth": 791,
+    "timeMonth": 794,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2021-07-02": 10,
@@ -108,7 +108,7 @@
     "time": 722,
     "timeDay": 558,
     "timeWeek": 790,
-    "timeMonth": 700,
+    "timeMonth": 685,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2021-07-01": 15
@@ -137,19 +137,19 @@
     "url": "https://sigalous.com/",
     "icon": "https://favicons.githubusercontent.com/sigalous.com",
     "slug": "sigalous",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 1889,
     "timeDay": 1287,
     "timeWeek": 2298,
-    "timeMonth": 1944,
+    "timeMonth": 1843,
     "timeYear": 1889,
     "dailyMinutesDown": {
-      "2021-07-11": 23,
+      "2021-07-11": 24,
       "2021-07-08": 24,
       "2021-07-05": 10,
       "2021-07-03": 40,
@@ -173,7 +173,7 @@
     "time": 767,
     "timeDay": 895,
     "timeWeek": 803,
-    "timeMonth": 767,
+    "timeMonth": 769,
     "timeYear": 767,
     "dailyMinutesDown": {}
   },
@@ -191,7 +191,7 @@
     "time": 331,
     "timeDay": 573,
     "timeWeek": 423,
-    "timeMonth": 334,
+    "timeMonth": 342,
     "timeYear": 331,
     "dailyMinutesDown": {}
   },
@@ -209,7 +209,7 @@
     "time": 866,
     "timeDay": 972,
     "timeWeek": 924,
-    "timeMonth": 870,
+    "timeMonth": 873,
     "timeYear": 866,
     "dailyMinutesDown": {}
   },
