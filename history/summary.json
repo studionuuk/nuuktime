@@ -185,19 +185,19 @@
     "url": "https://scrineprod.fr/",
     "icon": "https://favicons.githubusercontent.com/scrineprod.fr",
     "slug": "scrine-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 312,
-    "timeWeek": 444,
-    "timeMonth": 336,
-    "timeYear": 330,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 327,
+    "timeDay": 263,
+    "timeWeek": 416,
+    "timeMonth": 332,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2021-07-13": 0
+      "2021-07-13": 19
     }
   },
   {
