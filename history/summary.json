@@ -217,19 +217,19 @@
     "url": "https://aldeguer-thierry-avocat.fr/",
     "icon": "https://favicons.githubusercontent.com/aldeguer-thierry-avocat.fr",
     "slug": "thierry-aldeguer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 806,
-    "timeWeek": 830,
-    "timeMonth": 847,
-    "timeYear": 868,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 864,
+    "timeDay": 719,
+    "timeWeek": 798,
+    "timeMonth": 838,
+    "timeYear": 864,
     "dailyMinutesDown": {
-      "2021-08-25": 0
+      "2021-08-25": 25
     }
   },
   {
