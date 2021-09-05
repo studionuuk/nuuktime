@@ -22,19 +22,19 @@
     "url": "https://linkupfactory.com/",
     "icon": "https://favicons.githubusercontent.com/linkupfactory.com",
     "slug": "link-up-factory",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 578,
-    "timeWeek": 614,
-    "timeMonth": 586,
-    "timeYear": 611,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 623,
+    "timeDay": 973,
+    "timeWeek": 742,
+    "timeMonth": 622,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2021-09-05": 0
+      "2021-09-05": 9
     }
   },
   {
