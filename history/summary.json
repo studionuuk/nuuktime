@@ -206,9 +206,9 @@
     "url": "https://aldeguer-thierry-avocat.fr/",
     "icon": "https://favicons.githubusercontent.com/aldeguer-thierry-avocat.fr",
     "slug": "thierry-aldeguer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.95%",
@@ -218,6 +218,7 @@
     "timeMonth": 827,
     "timeYear": 855,
     "dailyMinutesDown": {
+      "2021-09-24": 0,
       "2021-09-05": 16,
       "2021-08-26": 9,
       "2021-08-25": 54
