@@ -15,8 +15,6 @@ sites:
     url: 	https://www.tennismajors.com/
   - name: MagicRPM
     url: https://www.magicrpm.com/
-  - name: Sigalous
-    url: https://sigalous.com/
   - name: Viebois
     url: https://viebois-champdieu.fr/
   - name: Scrine Production
@@ -27,6 +25,8 @@ sites:
     url: https://www.serieously.com/
   - name: Delpierre
     url: https://www.delpierre.com/
+  - name: Labeyrie
+    url: https://www.labeyrie.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
