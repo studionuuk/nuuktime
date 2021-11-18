@@ -27,6 +27,8 @@ sites:
     url: https://www.delpierre.com/
   - name: Labeyrie
     url: https://www.labeyrie.com/
+  - name: Preprod TM
+    url: https://preprod.tennismajors.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
