@@ -246,9 +246,9 @@
     "url": "https://preprod.tennismajors.com/",
     "icon": "https://favicons.githubusercontent.com/preprod.tennismajors.com",
     "slug": "preprod-tm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -257,6 +257,8 @@
     "timeWeek": 494,
     "timeMonth": 494,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-21": 0
+    }
   }
 ]
