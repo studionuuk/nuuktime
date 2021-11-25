@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 668,
     "timeDay": 1029,
-    "timeWeek": 729,
+    "timeWeek": 734,
     "timeMonth": 694,
     "timeYear": 668,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 584,
     "timeDay": 643,
-    "timeWeek": 541,
+    "timeWeek": 553,
     "timeMonth": 525,
     "timeYear": 584,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.92%",
     "time": 689,
     "timeDay": 658,
-    "timeWeek": 592,
+    "timeWeek": 586,
     "timeMonth": 648,
     "timeYear": 689,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
     "uptimeYear": "99.97%",
     "time": 314,
     "timeDay": 397,
-    "timeWeek": 323,
+    "timeWeek": 373,
     "timeMonth": 277,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -96,7 +96,7 @@
     "uptimeYear": "99.97%",
     "time": 796,
     "timeDay": 508,
-    "timeWeek": 1253,
+    "timeWeek": 1490,
     "timeMonth": 1065,
     "timeYear": 796,
     "dailyMinutesDown": {
@@ -117,7 +117,7 @@
     "uptimeYear": "100.00%",
     "time": 651,
     "timeDay": 777,
-    "timeWeek": 664,
+    "timeWeek": 683,
     "timeMonth": 651,
     "timeYear": 651,
     "dailyMinutesDown": {}
@@ -135,7 +135,7 @@
     "uptimeYear": "99.99%",
     "time": 837,
     "timeDay": 955,
-    "timeWeek": 709,
+    "timeWeek": 721,
     "timeMonth": 736,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -155,7 +155,7 @@
     "uptimeYear": "99.98%",
     "time": 266,
     "timeDay": 337,
-    "timeWeek": 255,
+    "timeWeek": 279,
     "timeMonth": 242,
     "timeYear": 266,
     "dailyMinutesDown": {
@@ -176,7 +176,7 @@
     "uptimeYear": "99.97%",
     "time": 802,
     "timeDay": 834,
-    "timeWeek": 682,
+    "timeWeek": 692,
     "timeMonth": 716,
     "timeYear": 802,
     "dailyMinutesDown": {
@@ -198,7 +198,7 @@
     "uptimeYear": "99.99%",
     "time": 720,
     "timeDay": 641,
-    "timeWeek": 340,
+    "timeWeek": 341,
     "timeMonth": 373,
     "timeYear": 720,
     "dailyMinutesDown": {
@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 835,
     "timeDay": 784,
-    "timeWeek": 694,
+    "timeWeek": 723,
     "timeMonth": 675,
     "timeYear": 835,
     "dailyMinutesDown": {}
@@ -236,7 +236,7 @@
     "uptimeYear": "100.00%",
     "time": 895,
     "timeDay": 1097,
-    "timeWeek": 940,
+    "timeWeek": 969,
     "timeMonth": 906,
     "timeYear": 895,
     "dailyMinutesDown": {}
@@ -246,18 +246,19 @@
     "url": "https://preprod.tennismajors.com/",
     "icon": "https://favicons.githubusercontent.com/preprod.tennismajors.com",
     "slug": "preprod-tm",
-    "status": "up",
-    "uptime": "89.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.18%",
-    "uptimeMonth": "89.18%",
-    "uptimeYear": "89.18%",
+    "status": "down",
+    "uptime": "90.04%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "89.77%",
+    "uptimeMonth": "90.04%",
+    "uptimeYear": "90.04%",
     "time": 1244,
     "timeDay": 2540,
-    "timeWeek": 1244,
+    "timeWeek": 1332,
     "timeMonth": 1244,
     "timeYear": 1244,
     "dailyMinutesDown": {
+      "2021-11-25": 0,
       "2021-11-23": 69,
       "2021-11-22": 754,
       "2021-11-21": 207
