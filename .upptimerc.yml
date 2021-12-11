@@ -7,28 +7,26 @@ sites:
     url: https://www.solsvivants.org/
   - name: LinkUp Factory
     url: 	https://linkupfactory.com/
-  - name: Studio Nuük
-    url: https://nuuk.fr/
-  - name: Uxo
-    url: https://with-uxo.com
   - name: Tennis Majors
     url: 	https://www.tennismajors.com/
   - name: MagicRPM
     url: https://www.magicrpm.com/
-  - name: Viebois
-    url: https://viebois-champdieu.fr/
-  - name: Scrine Production
-    url: https://scrineprod.fr/
-  - name: Thierry Aldeguer
-    url: https://aldeguer-thierry-avocat.fr/
   - name: Serieously
     url: https://www.serieously.com/
   - name: Delpierre
     url: https://www.delpierre.com/
   - name: Labeyrie
     url: https://www.labeyrie.com/
-  - name: Preprod TM
-    url: https://preprod.tennismajors.com/
+  - name: Viebois
+    url: https://viebois-champdieu.fr/
+  - name: Scrine Production
+    url: https://scrineprod.fr/
+  - name: Thierry Aldeguer
+    url: https://aldeguer-thierry-avocat.fr/
+  - name: Studio Nuük
+    url: https://nuuk.fr/
+  - name: Uxo
+    url: https://with-uxo.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
