@@ -101,10 +101,10 @@
     "url": "https://www.delpierre.com/",
     "icon": "https://favicons.githubusercontent.com/www.delpierre.com",
     "slug": "delpierre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 831,
@@ -112,16 +112,18 @@
     "timeWeek": 922,
     "timeMonth": 801,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 1
+    }
   },
   {
     "name": "Labeyrie",
     "url": "https://www.labeyrie.com/",
     "icon": "https://favicons.githubusercontent.com/www.labeyrie.com",
     "slug": "labeyrie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +132,9 @@
     "timeWeek": 936,
     "timeMonth": 927,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 0
+    }
   },
   {
     "name": "Viebois",
