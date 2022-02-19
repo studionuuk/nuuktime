@@ -50,7 +50,7 @@
     "uptimeYear": "99.98%",
     "time": 626,
     "timeDay": 203,
-    "timeWeek": 264,
+    "timeWeek": 253,
     "timeMonth": 263,
     "timeYear": 626,
     "dailyMinutesDown": {
@@ -137,9 +137,9 @@
     "url": "https://viebois-champdieu.fr/",
     "icon": "https://favicons.githubusercontent.com/viebois-champdieu.fr",
     "slug": "viebois",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.95%",
@@ -149,6 +149,7 @@
     "timeMonth": 1509,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2022-02-19": 0,
       "2022-02-17": 21,
       "2022-02-14": 69,
       "2022-02-07": 16,
