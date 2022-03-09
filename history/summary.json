@@ -161,9 +161,9 @@
     "url": "https://scrineprod.fr/",
     "icon": "https://favicons.githubusercontent.com/scrineprod.fr",
     "slug": "scrine-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -173,6 +173,7 @@
     "timeMonth": 193,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2021-12-20": 15,
       "2021-11-16": 33,
       "2021-07-13": 19
