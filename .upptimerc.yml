@@ -5,6 +5,10 @@ repo: nuuktime # The name of this repository
 sites:
   - name: Sols Vivants
     url: https://www.solsvivants.org/
+  - name: Sparfell
+    url: https://www.sparfell.aero/
+  - name: Drive to Zero
+    url: https://www.drivetozero.fr/
   - name: LinkUp Factory
     url: 	https://linkupfactory.com/
   - name: Tennis Majors
