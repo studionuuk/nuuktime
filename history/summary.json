@@ -81,9 +81,9 @@
     "url": "https://www.tennismajors.com/",
     "icon": "https://favicons.githubusercontent.com/www.tennismajors.com",
     "slug": "tennis-majors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -93,6 +93,7 @@
     "timeMonth": 501,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2022-06-13": 0,
       "2022-04-05": 26,
       "2021-10-07": 51,
       "2021-07-01": 15
