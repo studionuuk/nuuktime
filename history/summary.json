@@ -13,7 +13,7 @@
     "time": 694,
     "timeDay": 1190,
     "timeWeek": 878,
-    "timeMonth": 805,
+    "timeMonth": 803,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2022-01-27": 17
@@ -33,7 +33,7 @@
     "time": 1374,
     "timeDay": 1516,
     "timeWeek": 1298,
-    "timeMonth": 1165,
+    "timeMonth": 1162,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2022-05-06": 40,
@@ -54,7 +54,7 @@
     "time": 968,
     "timeDay": 1273,
     "timeWeek": 1082,
-    "timeMonth": 1026,
+    "timeMonth": 1020,
     "timeYear": 968,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 613,
     "timeDay": 1008,
     "timeWeek": 802,
-    "timeMonth": 752,
+    "timeMonth": 749,
     "timeYear": 615,
     "dailyMinutesDown": {}
   },
@@ -90,13 +90,12 @@
     "time": 555,
     "timeDay": 608,
     "timeWeek": 455,
-    "timeMonth": 350,
+    "timeMonth": 326,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2022-06-13": 0,
       "2022-04-05": 26,
-      "2021-10-07": 51,
-      "2021-07-01": 15
+      "2021-10-07": 51
     }
   },
   {
@@ -113,7 +112,7 @@
     "time": 638,
     "timeDay": 1047,
     "timeWeek": 829,
-    "timeMonth": 762,
+    "timeMonth": 757,
     "timeYear": 641,
     "dailyMinutesDown": {}
   },
@@ -131,7 +130,7 @@
     "time": 586,
     "timeDay": 561,
     "timeWeek": 519,
-    "timeMonth": 523,
+    "timeMonth": 528,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2021-07-20": 15
@@ -151,7 +150,7 @@
     "time": 803,
     "timeDay": 951,
     "timeWeek": 800,
-    "timeMonth": 792,
+    "timeMonth": 766,
     "timeYear": 801,
     "dailyMinutesDown": {}
   },
@@ -169,7 +168,7 @@
     "time": 970,
     "timeDay": 1174,
     "timeWeek": 1049,
-    "timeMonth": 1030,
+    "timeMonth": 1027,
     "timeYear": 970,
     "dailyMinutesDown": {}
   },
@@ -187,7 +186,7 @@
     "time": 1211,
     "timeDay": 2350,
     "timeWeek": 1926,
-    "timeMonth": 1816,
+    "timeMonth": 1817,
     "timeYear": 1241,
     "dailyMinutesDown": {
       "2022-04-03": 16,
@@ -203,19 +202,20 @@
     "url": "https://scrineprod.fr/",
     "icon": "https://favicons.githubusercontent.com/scrineprod.fr",
     "slug": "scrine-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 257,
     "timeDay": 213,
-    "timeWeek": 302,
-    "timeMonth": 270,
+    "timeWeek": 294,
+    "timeMonth": 266,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-06-30": 0,
+      "2022-07-01": 0,
+      "2022-06-30": 9,
       "2022-04-14": 75,
       "2021-12-20": 15,
       "2021-11-16": 33,
@@ -236,7 +236,7 @@
     "time": 828,
     "timeDay": 1338,
     "timeWeek": 1042,
-    "timeMonth": 956,
+    "timeMonth": 953,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2021-09-24": 26,
@@ -258,7 +258,7 @@
     "time": 694,
     "timeDay": 1185,
     "timeWeek": 823,
-    "timeMonth": 826,
+    "timeMonth": 825,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2022-05-29": 21,
@@ -278,19 +278,20 @@
     "url": "https://with-uxo.com",
     "icon": "https://favicons.githubusercontent.com/with-uxo.com",
     "slug": "uxo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 311,
-    "timeDay": 203,
-    "timeWeek": 360,
-    "timeMonth": 352,
+    "timeDay": 198,
+    "timeWeek": 342,
+    "timeMonth": 298,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-06-30": 20,
+      "2022-07-01": 0,
+      "2022-06-30": 29,
       "2022-05-17": 22,
       "2022-04-14": 75,
       "2022-03-02": 16,
