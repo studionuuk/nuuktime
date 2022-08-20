@@ -29,6 +29,8 @@ sites:
     url: https://aldeguer-thierry-avocat.fr/
   - name: Studio Nuük
     url: https://nuuk.fr/
+  - name: Villani
+    url: https://villani.nuuk.fr/
   - name: Uxo
     url: https://with-uxo.com
 
@@ -40,7 +42,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Statuts Studio Nuük
   introTitle: "**NuukTime** est l'outil de monitoring du Studio Nuük pour les sites que nous administrons."
-  introMessage: Cette page référence les sites que nous monitorons.
+  introMessage: Cette page monitore nos sites et applications.
   navbar:
     - title: Statuts
       href: /
